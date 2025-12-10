@@ -1,3 +1,4 @@
-№code
+#code
+assert 2 + 2 == 4
 #New code
-#new code 2 
+#new code 2
